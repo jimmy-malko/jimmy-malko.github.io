@@ -1,4 +1,51 @@
+body
+{
+  width: 750px;
+  margin:auto;
+}
+
 h1
 {
   text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 30px;
+}
+
+nav
+{
+  background-color: #0099cc;
+  padding-top: .1px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2
+{
+  margin-top: 25px;
+  margin-bottom: -5px;
+}
+
+hr
+{
+  margin-bottom: -5px;
+}
+
+.contact
+{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p
+{
+  text-align: left;
+}
+
+ul
+{
+  text-align: left;
+  margin-left: -15px;
+  margin-top: -10px;
 }
